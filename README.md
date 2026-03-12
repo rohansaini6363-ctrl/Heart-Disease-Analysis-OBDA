@@ -1,7 +1,5 @@
 Live link: https://heart-disease-web-site.vercel.app/
 
-Vedio link: https://drive.google.com/file/d/1RzKKPAHP2ZbWZOt5XRzWOWOOdlkDiMWS/view?usp=sharing
-
 Dashboard1: https://public.tableau.com/app/profile/rohansaini6363-ctrl/viz/Book1_17733160888020/Dashboard1?publish=yes
 
 Story: https://public.tableau.com/app/profile/rohansaini6363-ctrl/viz/Book1_17733160888020/Story1?publish=yes
